@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",D_DO-35_SOD27_P7.62mm_Horizontal,12,1N914,
+J1,NS-Tech_Grove_1x04_P2mm_Vertical,1,Conn_01x04_Socket,
+"SW1, SW10, SW11, SW12, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",SW_Cherry_MX_1.00u_PCB,12,SW_Push,
+SW13,RotaryEncoder_Bourns_Horizontal_PEC09-2xxxF-Nxxxx,1,RotaryEncoder,
