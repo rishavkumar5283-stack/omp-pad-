@@ -11,6 +11,9 @@ i have used these component
 
 schematics=<img width="612" height="477" alt="image" src="https://github.com/user-attachments/assets/e1ebec80-c6f6-402a-b215-5336b6253a31" />
 thats it 
+have a look at the pcb!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img width="1526" height="958" alt="Screenshot 2026-10-11 235451" src="https://github.com/user-attachments/assets/c2afb664-350d-44b3-9429-26ad73f991fe" />
+
 
 KEY MAPING (FETUR OF EACH KEY)
 
@@ -47,3 +50,14 @@ Rotary encoder=Clockwise: Volume up,Anticlockwise: Volume down,Press: Unassigned
 
 work of oled is to display tings i am displaying = (rishav / omp boy) 
 
+References
+
+KMK firmware: https://github.com/KMKfw/kmk_firmware
+
+KMK display documentation: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Display.md
+
+KMK encoder documentation: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/encoder.md
+
+CircuitPython: https://circuitpython.org/
+
+Adafruit CircuitPython libraries: https://circuitpython.org/libraries/
