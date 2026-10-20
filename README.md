@@ -13,17 +13,37 @@ schematics=<img width="612" height="477" alt="image" src="https://github.com/use
 thats it 
 
 KEY MAPING (FETUR OF EACH KEY)
+
 Switch	Function	Shortcut
+
 SW1 =	Copy	
+
 SW2 =	Paste
+
 SW3 =	Undo	
+
 SW4 =	Screenshot tool	
+
 SW5 =	Windows Search	
+
 SW6 = Switch apps	
+
 SW7 =	Save	
+
 SW8 =	Select all
+
 SW9 =	File Explorer	
-SW10 = VS Code Command Palette	
+
+SW10 = VS Code Command Palette
+
 SW11 = Play/Pause media	
+
 SW12 = Open Run dialog
-i will upload the file as code of omp pad u can access it there
+
+i will upload the file as (code of omp pad) u can access it there 
+
+
+Rotary encoder=Clockwise: Volume up,Anticlockwise: Volume down,Press: Unassigned
+
+work of oled is to display tings i am displaying = (rishav / omp boy) 
+
